@@ -1,1 +1,1 @@
-# Stop-tik.py
+print(' done by ethan ' )
